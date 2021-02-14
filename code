@@ -1,0 +1,40 @@
+<html>
+
+  <head>
+  span{font-size:44px;}
+body{text-align:center;}
+input{width: 40vw;
+		height: 9vh;
+		border-radius: 45px 44px 44px 44px;
+		font-size:34px;}
+		button{margin: 11px;
+    height: 5vh;
+background: #fff;border: #eee 1px solid;
+text-align:center;
+border-radius:11px 0px 0px 0px }
+a{color: blue;}
+googleHome{
+  margin-top:15vh;}
+}
+  </head>
+
+  <body>
+    <div class="googleHome">
+      <p>
+        <span style='color: blue'>G</span>
+        <span style='color: red'>o</span>
+        <span style='color: yellow'>o</span>
+        <span style='color: blue'>g</span>
+        <span style='color: green'>l</span>
+        <span style='color: red'>e</span>
+      </p>
+      <input type="search" name=""><br>
+      <p><button>google search</button>
+        <button>I'm Feeling Lucky</button>
+        <br><br>
+        Google page maded: <a>Ivans</a> <a>sadovnikovs</a>
+      </p>
+    </div>
+  </body>
+
+</html>
